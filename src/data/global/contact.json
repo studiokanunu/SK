@@ -4,20 +4,20 @@
         "delay": "300",
         "title": "Contact Directly",
         "icon": "icon_mail_alt",
-        "info": "<a href='mailto:demo@example.com'>demo@example.com</a><br /><a href='tel:0123456789'>0123456789</a>"
+        "info": "<a href='mailto:chuck@studiokanunu.com'>Send us an Email</a><br /><a href='tel:018082008541'>+01 (808) 200-8541</a>"
     },
     {
         "id": 2,
         "aos-delay": "600",
-        "title": "Visit our office",
+        "title": "Visit the Studio!",
         "icon": "icon_pin_alt",
-        "info": "<p>192 Orchard Street, Ohio, California, 90002, Unite States</p>"
+        "info": "<p>1222 Harrison St., Unit 7114<br> San Francisco, Ca. 94103</p>"
     },
     {
         "id": 3,
         "aos-delay": "900",
-        "title": "Contact Directly",
+        "title": "Need Your Idea Realized?",
         "icon": "icon_briefcase",
-        "info": "<p>Send your CV to our email: <a href='mailto:demo@demo.com'>demo@demo.com</a></p>"
+        "info": "<p>Send your sketch to our email: <a href='mailto:custom@studiokanunu.com'>Bespoke</a></p>"
     }
 ]

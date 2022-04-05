@@ -4,30 +4,30 @@
             {
                 "id": 1,
                 "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "Vouge Italia Deember Campaign",
-                "subTitle": "inspire 2026",
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "title": "You Need Art",
+                "subTitle": "Define Your Style",
+                "desc": "Don't you hate it when you miss an opportunity?",
                 "buttonText": "Explore now"
             },
             {
                 "id": 2,
                 "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "Vouge Italia Deember Campaign",
-                "subTitle": "inspire 2026",
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "title": "Make an Appointment today!",
+                "subTitle": "Inspirations For You",
+                "desc": "You saw a lovely piece, didn't buy it. When you went back to look, it was gone.",
                 "buttonText": "Explore now"
             },
             {
                 "id": 3,
                 "backgroundImage": "/img/hero-slider/hero1.jpg",
-                "title": "Vouge Italia Deember Campaign",
-                "subTitle": "inspire 2026",
-                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "title": "Entertainment",
+                "subTitle": "Available Now",
+                "desc": "Hesitate, and lose. Be Audacious Always! Buy Originals!",
                 "buttonText": "Explore now"
             }
         ]
     },
     {
-        "qute": "<p>All art is best seem in person, espcially mine!</p><p>Make an appointment, same day very posible. Be impetuous, take a break, go look at some outstanding art today!"
+        "qute": "All art is best seen in person, espcially mine!"
     }
 ]

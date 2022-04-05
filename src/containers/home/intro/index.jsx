@@ -11,11 +11,11 @@ const IntroContainer = () => {
     const swiperOption = {
         loop: true,
         speed: 750,
-        spaceBetween: 0,
+        spaceBetween: 10,
         slidesPerView: 1,
         pagination: { clickable: true },
         autoplay: {
-            delay: 2500,
+            delay: 6500,
             disableOnInteraction: false,
         },
     };

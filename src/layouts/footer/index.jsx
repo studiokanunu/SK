@@ -54,16 +54,7 @@ const Footer = () => {
                                 </div>
                                 <div className="widget-copyright">
                                     <p>
-                                        © 2021 <span>Alexis</span>. Made with{" "}
-                                        <i className="icofont-heart-alt"></i> by{" "}
-                                        <a
-                                            target="_blank"
-                                            href="https://www.hasthemes.com"
-                                            rel="noreferrer"
-                                        >
-                                            HasThemes
-                                        </a>
-                                    </p>
+                                        © 2022 <span>Studio Kanunu</span></p>
                                 </div>
                             </div>
                             <div className="widget-item">
@@ -93,7 +84,7 @@ const Footer = () => {
                                         <a
                                             href="https://www.instagram.com/"
                                             target="_blank"
-                                            rel="noopener noreferrer"
+                                            rel="hypertextural"
                                         >
                                             <i className="social_instagram"></i>
                                         </a>

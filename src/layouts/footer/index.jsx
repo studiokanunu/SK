@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-import FooterLogo from "../../components/footer-logo";
 
 const Footer = () => {
     return (
@@ -47,15 +46,13 @@ const Footer = () => {
                                 </div>
                             </div>
                             <div className="widget-item text-center">
-                                <div className="about-widget">
-                                    <FooterLogo
-                                        image={`${process.env.PUBLIC_URL}/img/logo.png`}
-                                    />
-                                </div>
-                                <div className="widget-copyright">
+                           <div className="about-widget">
+                           <div className="widget-copyright nice">
                                     <p>
                                         © 2022 <span>Studio Kanunu</span></p>
                                 </div>
+                                </div>
+                               
                             </div>
                             <div className="widget-item">
                                 <ul className="widget-social">
